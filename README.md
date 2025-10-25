@@ -21,3 +21,6 @@ Key Insights:
 
 
 Tools Used: Power BI, Excel
+
+Image:-
+https://github.com/1182803/-Blinkit-Sales-Performance-Dashboard/blob/main/Screenshot%202025-10-25%20164400.png
